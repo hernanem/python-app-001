@@ -1,0 +1,18 @@
+<timeSeriesResponse>
+    <queryInfo>
+        <locationParam>01474500</locationParam>
+        <variableParam>99988</variableParam>
+        <timeParam>
+            <beginDateTime>2009-09-24T15:15:55.271</beginDateTime>
+            <endDateTime>2009-11-23T15:15:55.271</endDateTime>
+        </timeParam>
+     </queryInfo>
+     <timeSeries name="NWIS Time Series Instantaneous Values">
+         <values count="2876">
+            <value dateTime="2009-09-24T15:30:00.000-04:00" qualifiers="P">550</value>
+            <value dateTime="2009-09-24T16:00:00.000-04:00" qualifiers="P">419</value>
+            <value dateTime="2009-09-24T16:30:00.000-04:00" qualifiers="P">370</value>
+            .....
+         </values>
+     </timeSeries>
+</timeSeriesResponse>
